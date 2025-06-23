@@ -1,3 +1,3 @@
 # Second Repo Matreials
-## clomimg
+## cloning
 This is starrting from github to git in our machine.
